@@ -11,3 +11,4 @@ deleting directory
 changing the directory to the previous one
 all files with a period character
 type of file
+creating a link
