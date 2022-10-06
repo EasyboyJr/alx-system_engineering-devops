@@ -13,3 +13,4 @@ all files with a period character
 type of file
 creating a link
 copy all html
+files that begin with upper case
