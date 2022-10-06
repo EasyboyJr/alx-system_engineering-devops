@@ -8,3 +8,4 @@ creating directory
 moving the file
 deleting betty
 deleting directory
+changing the directory to the previous one
