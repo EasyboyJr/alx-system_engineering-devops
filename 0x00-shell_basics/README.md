@@ -7,3 +7,4 @@ display digit content
 creating directory
 moving the file
 deleting betty
+deleting directory
