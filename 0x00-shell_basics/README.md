@@ -16,3 +16,4 @@ copy all html
 files that begin with upper case
 delete all files
 creating more directories
+plenty comands
