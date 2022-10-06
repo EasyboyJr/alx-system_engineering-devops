@@ -6,3 +6,4 @@ listing hidden contents
 display digit content
 creating directory
 moving the file
+deleting betty
