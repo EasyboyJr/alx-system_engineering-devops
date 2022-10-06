@@ -5,3 +5,4 @@ displaying content in a long format
 listing hidden contents
 display digit content
 creating directory
+moving the file
